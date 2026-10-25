@@ -1,0 +1,2890 @@
+[
+  {
+    "id": 1,
+    "name": "Audi",
+    "models": [
+      {
+        "name": "A3",
+        "generations": [
+          {
+            "generation": "8Y",
+            "years": "2020-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          },
+          {
+            "generation": "8V",
+            "years": "2012-2020",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          },
+          {
+            "generation": "8P",
+            "years": "2003-2013",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sportback"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "A4",
+        "generations": [
+          {
+            "generation": "B9",
+            "years": "2015-2024",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "B8",
+            "years": "2007-2015",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          },
+          {
+            "generation": "B7",
+            "years": "2004-2008",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "A6",
+        "generations": [
+          {
+            "generation": "C8",
+            "years": "2018-2025",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "C7",
+            "years": "2011-2018",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "C6",
+            "years": "2004-2011",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "BMW",
+    "models": [
+      {
+        "name": "Seria 1",
+        "generations": [
+          {
+            "generation": "F70",
+            "years": "2024-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "F40",
+            "years": "2019-2024",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "F20/F21",
+            "years": "2011-2019",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "E87/E81",
+            "years": "2004-2013",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Seria 3",
+        "generations": [
+          {
+            "generation": "G20/G21",
+            "years": "2018-obecnie",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "F30/F31",
+            "years": "2011-2019",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "E90/E91",
+            "years": "2005-2013",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "coupe"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          },
+          {
+            "generation": "E46",
+            "years": "1997-2006",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "coupe"
+              },
+              {
+                "name": "kabriolet"
+              },
+              {
+                "name": "compact"
+              }
+            ]
+          },
+          {
+            "generation": "E36",
+            "years": "1990-2000",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "coupe"
+              },
+              {
+                "name": "kabriolet"
+              },
+              {
+                "name": "compact"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Seria 5",
+        "generations": [
+          {
+            "generation": "G60/G61",
+            "years": "2023-obecnie",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "G30/G31",
+            "years": "2016-2023",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "F10/F11",
+            "years": "2009-2017",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "E60/E61",
+            "years": "2003-2010",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ford",
+    "models": [
+      {
+        "name": "Focus",
+        "generations": [
+          {
+            "generation": "IV",
+            "years": "2018-2025",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          },
+          {
+            "generation": "III",
+            "years": "2010-2018",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2004-2011",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          },
+          {
+            "generation": "I",
+            "years": "1998-2005",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mondeo",
+        "generations": [
+          {
+            "generation": "V",
+            "years": "2014-2022",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "liftback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "IV",
+            "years": "2007-2014",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "liftback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "III",
+            "years": "2000-2007",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "liftback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Honda",
+    "models": [
+      {
+        "name": "Civic",
+        "generations": [
+          {
+            "generation": "XI",
+            "years": "2021-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          },
+          {
+            "generation": "X",
+            "years": "2015-2021",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "coupe"
+              }
+            ]
+          },
+          {
+            "generation": "IX",
+            "years": "2011-2017",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "coupe"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Mercedes-Benz",
+    "models": [
+      {
+        "name": "Klasa C",
+        "generations": [
+          {
+            "generation": "W206",
+            "years": "2021-obecnie",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "W205",
+            "years": "2014-2021",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "coupe"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          },
+          {
+            "generation": "W204",
+            "years": "2007-2014",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "coupe"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Klasa E",
+        "generations": [
+          {
+            "generation": "W214",
+            "years": "2023-obecnie",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "W213",
+            "years": "2016-2023",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "coupe"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          },
+          {
+            "generation": "W212",
+            "years": "2009-2016",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "coupe"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Opel",
+    "models": [
+      {
+        "name": "Astra",
+        "generations": [
+          {
+            "generation": "L",
+            "years": "2021-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "K",
+            "years": "2015-2021",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          },
+          {
+            "generation": "J",
+            "years": "2009-2015",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "coupe"
+              }
+            ]
+          },
+          {
+            "generation": "H",
+            "years": "2004-2010",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "coupe"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          },
+          {
+            "generation": "G",
+            "years": "1998-2004",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "coupe"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Corsa",
+        "generations": [
+          {
+            "generation": "F",
+            "years": "2019-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "E",
+            "years": "2014-2019",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "D",
+            "years": "2006-2014",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "C",
+            "years": "2000-2006",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Insignia",
+        "generations": [
+          {
+            "generation": "B",
+            "years": "2017-2022",
+            "nadwozie": [
+              {
+                "name": "liftback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "A",
+            "years": "2008-2017",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "liftback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Renault",
+    "models": [
+      {
+        "name": "Clio",
+        "generations": [
+          {
+            "generation": "V",
+            "years": "2019-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "IV",
+            "years": "2012-2019",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "III",
+            "years": "2005-2014",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Megane",
+        "generations": [
+          {
+            "generation": "IV",
+            "years": "2016-2024",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "III",
+            "years": "2008-2016",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "coupe"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2002-2009",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "coupe"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Skoda",
+    "models": [
+      {
+        "name": "Octavia",
+        "generations": [
+          {
+            "generation": "IV",
+            "years": "2019-obecnie",
+            "nadwozie": [
+              {
+                "name": "liftback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "III",
+            "years": "2012-2020",
+            "nadwozie": [
+              {
+                "name": "liftback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2004-2013",
+            "nadwozie": [
+              {
+                "name": "liftback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "I",
+            "years": "1996-2010",
+            "nadwozie": [
+              {
+                "name": "liftback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Superb",
+        "generations": [
+          {
+            "generation": "IV",
+            "years": "2023-obecnie",
+            "nadwozie": [
+              {
+                "name": "liftback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "III",
+            "years": "2015-2024",
+            "nadwozie": [
+              {
+                "name": "liftback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2008-2015",
+            "nadwozie": [
+              {
+                "name": "liftback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Toyota",
+    "models": [
+      {
+        "name": "Corolla",
+        "generations": [
+          {
+            "generation": "E210",
+            "years": "2018-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "E170",
+            "years": "2013-2019",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "E150",
+            "years": "2006-2013",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Yaris",
+        "generations": [
+          {
+            "generation": "XP210",
+            "years": "2020-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "XP130",
+            "years": "2011-2020",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "XP90",
+            "years": "2005-2011",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Volkswagen",
+    "models": [
+      {
+        "name": "Golf",
+        "generations": [
+          {
+            "generation": "VIII",
+            "years": "2019-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "VII",
+            "years": "2012-2020",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "VI",
+            "years": "2008-2013",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          },
+          {
+            "generation": "V",
+            "years": "2003-2009",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          },
+          {
+            "generation": "IV",
+            "years": "1997-2006",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Passat",
+        "generations": [
+          {
+            "generation": "B9",
+            "years": "2023-obecnie",
+            "nadwozie": [
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "B8",
+            "years": "2014-2023",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "B7",
+            "years": "2010-2015",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "B6",
+            "years": "2005-2010",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Polo",
+        "generations": [
+          {
+            "generation": "VI",
+            "years": "2017-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "V",
+            "years": "2009-2017",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          },
+          {
+            "generation": "IV",
+            "years": "2001-2009",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Citroën",
+    "models": [
+      {
+        "name": "C3",
+        "generations": [
+          {
+            "generation": "IV",
+            "years": "2024-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "crossover"
+              }
+            ]
+          },
+          {
+            "generation": "III",
+            "years": "2016-2024",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2009-2016",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "C4",
+        "generations": [
+          {
+            "generation": "III",
+            "years": "2020-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "crossover"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2010-2018",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          },
+          {
+            "generation": "I",
+            "years": "2004-2010",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "coupe"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Dacia",
+    "models": [
+      {
+        "name": "Duster",
+        "generations": [
+          {
+            "generation": "III",
+            "years": "2024-obecnie",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2017-2024",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "I",
+            "years": "2010-2018",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sandero",
+        "generations": [
+          {
+            "generation": "III",
+            "years": "2020-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2012-2020",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "I",
+            "years": "2007-2012",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Fiat",
+    "models": [
+      {
+        "name": "500",
+        "generations": [
+          {
+            "generation": "312",
+            "years": "2007-2024",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          },
+          {
+            "generation": "New 500e",
+            "years": "2020-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Panda",
+        "generations": [
+          {
+            "generation": "III",
+            "years": "2011-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2003-2012",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "I",
+            "years": "1980-2003",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tipo",
+        "generations": [
+          {
+            "generation": "II",
+            "years": "2015-2025",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "I",
+            "years": "1988-1995",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Hyundai",
+    "models": [
+      {
+        "name": "i30",
+        "generations": [
+          {
+            "generation": "III",
+            "years": "2016-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "fastback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2011-2017",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "I",
+            "years": "2007-2012",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tucson",
+        "generations": [
+          {
+            "generation": "IV",
+            "years": "2020-obecnie",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "III",
+            "years": "2015-2020",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2009-2015",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "I",
+            "years": "2004-2009",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Jeep",
+    "models": [
+      {
+        "name": "Grand Cherokee",
+        "generations": [
+          {
+            "generation": "WL",
+            "years": "2021-obecnie",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "WK2",
+            "years": "2010-2022",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "WK",
+            "years": "2005-2010",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Wrangler",
+        "generations": [
+          {
+            "generation": "JL",
+            "years": "2017-obecnie",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          },
+          {
+            "generation": "JK",
+            "years": "2006-2018",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          },
+          {
+            "generation": "TJ",
+            "years": "1996-2006",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              },
+              {
+                "name": "kabriolet"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Kia",
+    "models": [
+      {
+        "name": "Ceed",
+        "generations": [
+          {
+            "generation": "CD",
+            "years": "2018-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "shooting brake"
+              }
+            ]
+          },
+          {
+            "generation": "JD",
+            "years": "2012-2018",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "pro_cee'd"
+              }
+            ]
+          },
+          {
+            "generation": "ED",
+            "years": "2006-2012",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "pro_cee'd"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sportage",
+        "generations": [
+          {
+            "generation": "NQ5",
+            "years": "2021-obecnie",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "QL",
+            "years": "2015-2022",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "SL",
+            "years": "2010-2016",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "JE/KM",
+            "years": "2004-2010",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Mazda",
+    "models": [
+      {
+        "name": "Mazda 3",
+        "generations": [
+          {
+            "generation": "BP",
+            "years": "2019-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          },
+          {
+            "generation": "BM/BN",
+            "years": "2013-2019",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          },
+          {
+            "generation": "BL",
+            "years": "2009-2013",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          },
+          {
+            "generation": "BK",
+            "years": "2003-2009",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CX-5",
+        "generations": [
+          {
+            "generation": "KF",
+            "years": "2017-obecnie",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "KE",
+            "years": "2012-2017",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Mitsubishi",
+    "models": [
+      {
+        "name": "Outlander",
+        "generations": [
+          {
+            "generation": "IV",
+            "years": "2021-obecnie",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "III",
+            "years": "2012-2021",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2006-2012",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "I",
+            "years": "2001-2006",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lancer",
+        "generations": [
+          {
+            "generation": "X",
+            "years": "2007-2017",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "IX",
+            "years": "2000-2010",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Nissan",
+    "models": [
+      {
+        "name": "Qashqai",
+        "generations": [
+          {
+            "generation": "J12",
+            "years": "2021-obecnie",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "J11",
+            "years": "2013-2021",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "J10",
+            "years": "2006-2013",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Juke",
+        "generations": [
+          {
+            "generation": "II",
+            "years": "2019-obecnie",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "I",
+            "years": "2010-2019",
+            "nadwozie": [
+              {
+                "name": "crossover"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Peugeot",
+    "models": [
+      {
+        "name": "208",
+        "generations": [
+          {
+            "generation": "II",
+            "years": "2019-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "I",
+            "years": "2012-2019",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "308",
+        "generations": [
+          {
+            "generation": "III",
+            "years": "2021-obecnie",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2013-2021",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "I",
+            "years": "2007-2014",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "kombi"
+              },
+              {
+                "name": "coupe-cabriolet"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "3008",
+        "generations": [
+          {
+            "generation": "III",
+            "years": "2023-obecnie",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              },
+              {
+                "name": "fastback"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2016-2024",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "I",
+            "years": "2008-2016",
+            "nadwozie": [
+              {
+                "name": "crossover"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Alfa Romeo",
+    "models": [
+      {
+        "name": "Giulietta",
+        "generations": [
+          {
+            "generation": "940",
+            "years": "2010-2020",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Giulia",
+        "generations": [
+          {
+            "generation": "952",
+            "years": "2016-",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Stelvio",
+        "generations": [
+          {
+            "generation": "949",
+            "years": "2017-",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Chevrolet",
+    "models": [
+      {
+        "name": "Aveo",
+        "generations": [
+          {
+            "generation": "T300",
+            "years": "2011-2020",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cruze",
+        "generations": [
+          {
+            "generation": "J300",
+            "years": "2008-2016",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Captiva",
+        "generations": [
+          {
+            "generation": "I",
+            "years": "2006-2018",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Volvo",
+    "models": [
+      {
+        "name": "S60",
+        "generations": [
+          {
+            "generation": "I",
+            "years": "2000-2009",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2010-2018",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              }
+            ]
+          },
+          {
+            "generation": "III",
+            "years": "2018-",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "V60",
+        "generations": [
+          {
+            "generation": "I",
+            "years": "2010-2018",
+            "nadwozie": [
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2018-",
+            "nadwozie": [
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "XC60",
+        "generations": [
+          {
+            "generation": "I",
+            "years": "2008-2017",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2017-",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Lexus",
+    "models": [
+      {
+        "name": "IS",
+        "generations": [
+          {
+            "generation": "XE20",
+            "years": "2005-2013",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              },
+              {
+                "name": "cabrio"
+              }
+            ]
+          },
+          {
+            "generation": "XE30",
+            "years": "2013-",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "RX",
+        "generations": [
+          {
+            "generation": "III",
+            "years": "2008-2015",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "IV",
+            "years": "2015-2022",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "V",
+            "years": "2022-",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "NX",
+        "generations": [
+          {
+            "generation": "I",
+            "years": "2014-2021",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2021-",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Subaru",
+    "models": [
+      {
+        "name": "Impreza",
+        "generations": [
+          {
+            "generation": "III",
+            "years": "2007-2011",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          },
+          {
+            "generation": "IV",
+            "years": "2011-2016",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          },
+          {
+            "generation": "V",
+            "years": "2016-2023",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Forester",
+        "generations": [
+          {
+            "generation": "III",
+            "years": "2008-2013",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "IV",
+            "years": "2012-2018",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "V",
+            "years": "2018-2024",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "VI",
+            "years": "2024-",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Outback",
+        "generations": [
+          {
+            "generation": "V",
+            "years": "2014-2019",
+            "nadwozie": [
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "VI",
+            "years": "2019-",
+            "nadwozie": [
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Porsche",
+    "models": [
+      {
+        "name": "911",
+        "generations": [
+          {
+            "generation": "997",
+            "years": "2004-2012",
+            "nadwozie": [
+              {
+                "name": "coupe"
+              },
+              {
+                "name": "cabrio"
+              },
+              {
+                "name": "targa"
+              }
+            ]
+          },
+          {
+            "generation": "991",
+            "years": "2011-2019",
+            "nadwozie": [
+              {
+                "name": "coupe"
+              },
+              {
+                "name": "cabrio"
+              },
+              {
+                "name": "targa"
+              }
+            ]
+          },
+          {
+            "generation": "992",
+            "years": "2019-",
+            "nadwozie": [
+              {
+                "name": "coupe"
+              },
+              {
+                "name": "cabrio"
+              },
+              {
+                "name": "targa"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cayenne",
+        "generations": [
+          {
+            "generation": "I",
+            "years": "2002-2010",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2010-2017",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "III",
+            "years": "2017-",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Macan",
+        "generations": [
+          {
+            "generation": "I",
+            "years": "2014-",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Land Rover",
+    "models": [
+      {
+        "name": "Range Rover Evoque",
+        "generations": [
+          {
+            "generation": "I",
+            "years": "2011-2018",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              },
+              {
+                "name": "cabrio"
+              }
+            ]
+          },
+          {
+            "generation": "II",
+            "years": "2018-",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Discovery Sport",
+        "generations": [
+          {
+            "generation": "I",
+            "years": "2014-",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Defender",
+        "generations": [
+          {
+            "generation": "L663",
+            "years": "2019-",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              },
+              {
+                "name": "pickup"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Suzuki",
+    "models": [
+      {
+        "name": "Swift",
+        "generations": [
+          {
+            "generation": "III",
+            "years": "2004-2010",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "IV",
+            "years": "2010-2017",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "V",
+            "years": "2017-2023",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "VI",
+            "years": "2023-",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Vitara",
+        "generations": [
+          {
+            "generation": "III",
+            "years": "2005-2015",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "IV",
+            "years": "2015-",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SX4",
+        "generations": [
+          {
+            "generation": "I",
+            "years": "2006-2014",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              },
+              {
+                "name": "sedan"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Mini",
+    "models": [
+      {
+        "name": "Hatch",
+        "generations": [
+          {
+            "generation": "R50/R53",
+            "years": "2001-2006",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "R56",
+            "years": "2006-2013",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "F56",
+            "years": "2014-2023",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          },
+          {
+            "generation": "F66",
+            "years": "2024-",
+            "nadwozie": [
+              {
+                "name": "hatchback"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Clubman",
+        "generations": [
+          {
+            "generation": "R55",
+            "years": "2007-2014",
+            "nadwozie": [
+              {
+                "name": "kombi"
+              }
+            ]
+          },
+          {
+            "generation": "F54",
+            "years": "2015-2024",
+            "nadwozie": [
+              {
+                "name": "kombi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Countryman",
+        "generations": [
+          {
+            "generation": "R60",
+            "years": "2010-2016",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "F60",
+            "years": "2017-2023",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          },
+          {
+            "generation": "U25",
+            "years": "2023-",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Tesla",
+    "models": [
+      {
+        "name": "Model S",
+        "generations": [
+          {
+            "generation": "I",
+            "years": "2012-",
+            "nadwozie": [
+              {
+                "name": "liftback"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Model 3",
+        "generations": [
+          {
+            "generation": "I",
+            "years": "2017-",
+            "nadwozie": [
+              {
+                "name": "sedan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Model X",
+        "generations": [
+          {
+            "generation": "I",
+            "years": "2015-",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Model Y",
+        "generations": [
+          {
+            "generation": "I",
+            "years": "2020-",
+            "nadwozie": [
+              {
+                "name": "SUV"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
